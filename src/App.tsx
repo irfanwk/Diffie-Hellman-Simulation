@@ -421,7 +421,7 @@ export default function App() {
         <div className="flex items-center gap-1.5 backdrop-blur-sm bg-white/50 px-3 py-1.5 rounded-full border border-slate-200">
            <span className="w-2 h-2 rounded-full bg-indigo-500" /> Modulus (p): {MODULUS_P}
         </div>
-        <p>© 2026 Diffie-Hellman Lab — Educational Purposes Only</p>
+        <p>Diffie-Hellman Simulation</p>
       </footer>
     </div>
   );
