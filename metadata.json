@@ -1,0 +1,8 @@
+{
+  "name": "Diffie-Hellman Simulation",
+  "description": "An interactive educational tool demonstrating Diffie-Hellman key exchange and Man-in-the-Middle (MitM) attacks with visual data flow and messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
